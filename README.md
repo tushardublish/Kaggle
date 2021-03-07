@@ -1,2 +1,2 @@
 # Kaggle
-Sharing my attempts to Kaggle competitions
+Sharing my attempts at Kaggle competitions
